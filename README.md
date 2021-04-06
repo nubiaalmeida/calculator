@@ -15,11 +15,12 @@
 ### Abra o terminal e digite:
 
 ### `git clone https://github.com/nubiaalmeida/calculator.git`
-Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. 
+Pronto! Você clonou o projeto para o seu computador, agora você precisará instalar todas as dependências para a aplicação rodar diretamente no localhost. 
+
 Para isso, digite o comando abaixo e espere a instalação terminar:
 
 ### `npm install`
-Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar a aplicação:
+Com a aplicação clonada e todas as dependências instaladas você poderá executar o comando abaixo para iniciar a aplicação:
 
 ### `npm start`
-A aplicação rodará no endereço http://localhost:3000/
+Agora sim! Sua aplicação rodará no endereço http://localhost:3000/
