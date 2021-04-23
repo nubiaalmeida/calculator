@@ -1,6 +1,6 @@
 ## Calculadora React JS
 
-![calc](https://user-images.githubusercontent.com/20421608/115874545-991f4380-a41a-11eb-99b7-6d39463e4641.gif)
+![calc](https://user-images.githubusercontent.com/20421608/115875110-41350c80-a41b-11eb-8bdd-6d2e8204deae.gif)
 
 ### Requisitos
 
